@@ -222,3 +222,11 @@ section {
   background-color: var(--main-color);
   transform: translateY(5px);
 }
+
+/* darkmode */
+
+body.color{
+	--text-color: #fff;
+	--bg-color: #08162a;
+	--second-color: #2b3544;
+}
